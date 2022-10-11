@@ -1,9 +1,23 @@
-# Construindo um Esquema Conceitual para Banco De dados - Ordem de Serviço
+# Construindo um Projeto Lógico de Banco de Dados do Zero - Oficina Mecânica
 
 ## Desafio DIO
 
 ### Objetivo: 
-- Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+- Criar o esquema lógico para o contexto de oficina com base na narrativa fornecida.
+- Criar script SQL para criação do esquema do banco de dados. 
+- Criar script SQL para persistência de dados.
+- Criar script SQL com queries respeitando cláusulas.
+
+
+#### Cláusulas:
+- Recuperações simples com SELECT Statement.
+- Filtros com WHERE Statement.
+- Crie expressões para gerar atributos derivados.
+- Defina ordenações dos dados com ORDER BY.
+- Condições de filtros aos grupos – HAVING Statement.
+- Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados.
+
+<br/>
 
 ### Narrativa:
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
