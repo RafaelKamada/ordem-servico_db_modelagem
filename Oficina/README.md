@@ -43,4 +43,13 @@
 - Uma Equipe contém 1 ou mais Mecânicos.
 
 ### Esquema:
-![alt text](https://github.com/RafaelKamada/ordem-servico_db_modelagem/blob/main/Ordem%20de%20Servico.png)
+![alt text](https://github.com/RafaelKamada/ordem-servico_db_modelagem/blob/main/Oficina/Ordem%20de%20Servi%C3%A7o%20-%20Oficina.png)
+
+
+### Passos:
+
+1 - Efetuar a criação do Banco de Dados utilizando o script [Criação do Esquema.sql](https://github.com/RafaelKamada/ordem-servico_db_modelagem/blob/main/Oficina/Cria%C3%A7%C3%A3o%20do%20Esquema.sql) 
+
+2 - Para persistencia de dados utilizar o script [Inserts.sql](https://github.com/RafaelKamada/ordem-servico_db_modelagem/blob/main/Oficina/Inserts.sql) 
+
+3 - Executar as queries com o script [Selects.sql](https://github.com/RafaelKamada/ordem-servico_db_modelagem/blob/main/Oficina/Selects.sql) 
